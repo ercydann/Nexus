@@ -1,5 +1,4 @@
 
-# https://threads-app-five-zeta.vercel.app/
 
 ![Alt text](image.png)
 ![Alt text](image-1.png)
