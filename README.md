@@ -1,4 +1,4 @@
-# Threads - A Next.js 13 Application
+
 # https://threads-app-five-zeta.vercel.app/
 
 ![Alt text](image.png)
